@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tertiary Explore</string>
+    <string name="title_activity_reg">RegActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">welcome</string>
+
+    <string name="tertiary__explorer_s_notification_title_template">Tertiary explorer s: %1$s
+    </string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="tertiary__explorer_s_notification_placeholder_text_template">You said %1$s and
+    </string>
+    <string name="action_share">Share</string>
+    <string name="action_reply">Reply</string>
+    <string name="title_activity_go_to_res">Map</string>
+</resources>

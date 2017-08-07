@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/btnViewProf"
+
+            android:title="View Profile" />
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:title="Update" />
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="Deactivate Account" />
+        <item
+            android:id="@+id/btnViewCourses"
+
+            android:title="Courses" />
+        <item
+            android:id="@+id/btnResidences"
+
+            android:title="Residences" />
+        <item
+            android:id="@+id/btnbusaries"
+
+            android:title="Bursaries" />
+        <item
+            android:id="@+id/nav_manage"
+
+            android:title="Tools" />
+        <item
+            android:id="@+id/btnInstitutions"
+
+            android:title="Institutions" />
+    </group>
+
+
+
+</menu>
